@@ -34,6 +34,6 @@ This is my github profile and recently I revamped it by using one of the secret 
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varun-singh-01&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varun-singh-01&langs_count=5&exclude_repo=pandas&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 <!-- [![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=varun-singh-01&count_private=true&hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
