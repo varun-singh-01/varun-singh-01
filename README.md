@@ -21,11 +21,11 @@ This is my github profile and recently I revamped it by using one of the secret 
 📘 My Latest Medium Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Start Using Background Tasks in FastAPI](https://python.plainenglish.io/how-tostartusingbackground-tasks-in-fastapis-d8bd15ad5ef5?source=rss-9d07645b14c4------2)
 - [5 Easy Steps to Deploy Your Containers As Lambda Functions](https://aws.plainenglish.io/5-easy-steps-to-deploy-your-containers-as-lambda-functions-de9314f074f1?source=rss-9d07645b14c4------2)
 - [Containers in AWS Lambda](https://aws.plainenglish.io/containers-in-aws-lambda-d4c795d75368?source=rss-9d07645b14c4------2)
-- [Flask 2.0 Released](https://code-infinite.medium.com/flask-2-0-released-9452555b2d9a?source=rss-9d07645b14c4------2)
+- [Flask 2.0 Released](https://python.plainenglish.io/flask-2-0-released-9452555b2d9a?source=rss-9d07645b14c4------2)
 - [Keep Your AWS Lambda Functions Warm and Avoid Cold Starts](https://aws.plainenglish.io/keep-your-aws-lambda-functions-warm-and-avoid-cold-start-1c80e02ea6f9?source=rss-9d07645b14c4------2)
-- [Manage resources using Python Context Manager](https://code-infinite.medium.com/manage-resources-using-python-context-manager-f803c9d9e133?source=rss-9d07645b14c4------2)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more articles](https://code-infinite.medium.com/)
