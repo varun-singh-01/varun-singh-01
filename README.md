@@ -21,7 +21,7 @@ This is my github profile and recently I revamped it by using one of the secret 
 📘 My Latest Medium Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [FastAPI — Coroutines and async/await](https://medium.com/talkhash/fastapi-coroutines-and-async-await-c1854bee527?source=rss-9d07645b14c4------2)
+- [FastAPI — Coroutines and async/await](https://blog.talkhash.com/fastapi-coroutines-and-async-await-c1854bee527?source=rss-9d07645b14c4------2)
 - [How To Start Using Background Tasks in FastAPI](https://python.plainenglish.io/how-tostartusingbackground-tasks-in-fastapis-d8bd15ad5ef5?source=rss-9d07645b14c4------2)
 - [5 Easy Steps to Deploy Your Containers As Lambda Functions](https://aws.plainenglish.io/5-easy-steps-to-deploy-your-containers-as-lambda-functions-de9314f074f1?source=rss-9d07645b14c4------2)
 - [Containers in AWS Lambda](https://aws.plainenglish.io/containers-in-aws-lambda-d4c795d75368?source=rss-9d07645b14c4------2)
