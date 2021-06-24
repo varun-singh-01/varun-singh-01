@@ -6,7 +6,7 @@
 
 A Software Engineer with 3.5+ years of experience in Python, AWS, and many more technologies. More about my technology experties is listed in the toolbox below.
 
-I am an active writer/blogger on Medium with an average 1000+ views/day and on Linkedin with average 500+ views/day. My writing topics are Cloud Computing - AWS, GCP and AZURE, Serverless, and Programming languages - Python, Java, NodeJS and VueJS.
+I am an active writer/blogger on Medium with an average 3000+ views/day and on Linkedin with average 1000+ views/day. My writing topics are Cloud Computing - AWS, GCP and AZURE, Serverless, and Programming languages - Python, Java, NodeJS and VueJS.
 
 This is my github profile and recently I revamped it by using one of the secret features of Github.
 
