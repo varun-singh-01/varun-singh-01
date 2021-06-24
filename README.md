@@ -28,7 +28,7 @@ This is my github profile and recently I revamped it by using one of the secret 
 - [FastAPI — Coroutines and async/await](https://blog.talkhash.com/fastapi-coroutines-and-async-await-c1854bee527?source=rss-9d07645b14c4------2)
 <!-- BLOG-POST-LIST:END -->
 
-▶ [...more articles](https://code-infinite.medium.com/)
+▶ [...more articles](https://varun-singh-01.medium.com/)
 
 ---
 
