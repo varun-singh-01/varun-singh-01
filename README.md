@@ -21,11 +21,11 @@ This is my github profile and recently I revamped it by using one of the secret 
 📘 My Latest Medium Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Linked List Explained In Python](https://varun-singh-01.medium.com/linked-list-explained-in-python-48836dfe1a18?source=rss-9d07645b14c4------2)
 - [Code Sharing Using Inheritance Is A Bad Idea](https://varun-singh-01.medium.com/code-sharing-using-inheritance-is-a-bad-idea-68a08a0a1507?source=rss-9d07645b14c4------2)
 - [Implementing Queues In Python](https://varun-singh-01.medium.com/implementing-queues-in-python-9868793a24b0?source=rss-9d07645b14c4------2)
 - [Prevent S3 Data Breach Using red-bucket](https://aws.plainenglish.io/prevent-s3-data-breach-using-red-bucket-b5090fa47abf?source=rss-9d07645b14c4------2)
 - [Implementing Stack In Python](https://varun-singh-01.medium.com/implementing-stack-in-python-250e5659e40b?source=rss-9d07645b14c4------2)
-- [Introduction To Recursion In Python](https://varun-singh-01.medium.com/introduction-to-recursion-in-python-f3d0c656cc1?source=rss-9d07645b14c4------2)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more articles](https://varun-singh-01.medium.com/)
