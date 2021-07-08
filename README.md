@@ -21,11 +21,11 @@ This is my github profile and recently I revamped it by using one of the secret 
 📘 My Latest Medium Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Trigger Lambda On S3 Events Using CDK](https://varun-singh-01.medium.com/trigger-lambda-on-s3-events-using-cdk-763e2a292113?source=rss-9d07645b14c4------2)
+- [Configure AWS CLI In 2 minutes](https://varun-singh-01.medium.com/configure-aws-cli-in-2-minutes-4159aef6e2a7?source=rss-9d07645b14c4------2)
 - [Setup AWS CLI In 2 Minutes](https://varun-singh-01.medium.com/setup-aws-cli-in-2-minutes-5a43cf4fb5b8?source=rss-9d07645b14c4------2)
 - [Setup AWS CDK In 2 Minutes](https://varun-singh-01.medium.com/setup-aws-cdk-in-2-minutes-855ab5085402?source=rss-9d07645b14c4------2)
 - [Linked List Explained In Python](https://varun-singh-01.medium.com/linked-list-explained-in-python-48836dfe1a18?source=rss-9d07645b14c4------2)
-- [Code Sharing Using Inheritance Is A Bad Idea](https://varun-singh-01.medium.com/code-sharing-using-inheritance-is-a-bad-idea-68a08a0a1507?source=rss-9d07645b14c4------2)
-- [Implementing Queues In Python](https://varun-singh-01.medium.com/implementing-queues-in-python-9868793a24b0?source=rss-9d07645b14c4------2)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more articles](https://varun-singh-01.medium.com/)
