@@ -2,8 +2,6 @@
 
 ---
 
-![Twitter Follow](https://img.shields.io/twitter/follow/varunsh89?style=social)
-
 A Software Engineer with 4+ years of experience in Python, AWS, and many more technologies. More about my technology experties is listed in the toolbox below.
 
 I am an active writer/blogger on Medium with an average 3000+ views/day and on Linkedin with average 1000+ views/day. My writing topics are Cloud Computing - AWS, GCP and AZURE, Serverless, and Programming languages - Python, Java, NodeJS and VueJS.
