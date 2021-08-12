@@ -19,11 +19,11 @@ This is my github profile and recently I revamped it by using one of the secret 
 📘 My Latest Medium Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [3 Reasons To Choose Python For Your Next Project](https://varun-singh-01.medium.com/3-reasons-to-choose-python-for-your-next-project-5cc6180a7650?source=rss-9d07645b14c4------2)
 - [Create Python Virtual Environment In 2 Minutes](https://varun-singh-01.medium.com/create-python-virtual-environment-in-2-minutes-9c9577d05219?source=rss-9d07645b14c4------2)
 - [FastAPI — Build Your First API](https://varun-singh-01.medium.com/fastapi-build-your-first-api-9ad037e9b979?source=rss-9d07645b14c4------2)
 - [Tree Data Structure Explained In Python](https://varun-singh-01.medium.com/tree-data-structure-explained-in-python-7b2709efcf48?source=rss-9d07645b14c4------2)
 - [Trigger Lambda On S3 Events Using CDK](https://aws.plainenglish.io/trigger-lambda-on-s3-events-using-cdk-763e2a292113?source=rss-9d07645b14c4------2)
-- [Configure AWS CLI In 2 minutes](https://aws.plainenglish.io/configure-aws-cli-in-2-minutes-4159aef6e2a7?source=rss-9d07645b14c4------2)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more articles](https://varun-singh-01.medium.com/)
