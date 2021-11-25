@@ -19,11 +19,11 @@ This is my github profile and recently I revamped it by using one of the secret 
 📘 My Latest Medium Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Python 3.10 Released — Top 5 New Features You should Know](https://varun-singh-01.medium.com/python-3-10-released-top-5-new-features-you-should-know-bf968ac99230?source=rss-9d07645b14c4------2)
 - [Top 3 Software Development Mistakes You Should Avoid](https://varun-singh-01.medium.com/top-3-software-development-mistakes-you-should-avoid-257d3f38e5e5?source=rss-9d07645b14c4------2)
 - [Top 5 Sites To Learn Azure For Free](https://varun-singh-01.medium.com/top-5-sites-to-learn-azure-for-free-3f06f470371b?source=rss-9d07645b14c4------2)
 - [Top 5 Sites To Learn AWS For Free](https://varun-singh-01.medium.com/top-5-sites-to-learn-aws-for-free-b9206d65fbb6?source=rss-9d07645b14c4------2)
 - [Top 5 Sites To Learn Python For Free](https://varun-singh-01.medium.com/top-5-sites-to-learn-python-for-free-19dd16c7d36e?source=rss-9d07645b14c4------2)
-- [5 Python Tricks That Made Me A Good Python Developer](https://varun-singh-01.medium.com/5-python-tricks-that-made-me-a-good-python-developer-22c967369207?source=rss-9d07645b14c4------2)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more articles](https://varun-singh-01.medium.com/)
